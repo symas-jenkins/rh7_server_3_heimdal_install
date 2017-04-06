@@ -1,0 +1,2 @@
+# rh7_server_3_heimdal_install
+Artifacts to include for rh7_server_3_heimdal_install job
